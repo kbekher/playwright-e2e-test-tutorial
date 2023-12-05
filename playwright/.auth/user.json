@@ -5,7 +5,7 @@
       "value": "05-Dec-2023",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1704542815.909346,
+      "expires": 1704543554.379445,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -15,7 +15,7 @@
       "value": "05-Dec-2023",
       "domain": ".wikipedia.org",
       "path": "/",
-      "expires": 1704542815.909586,
+      "expires": 1704543554.379946,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -35,7 +35,7 @@
       "value": "0.001",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1701818710.724729,
+      "expires": 1701819448.922542,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -45,14 +45,14 @@
       "value": "e55",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1701821008.038292,
+      "expires": 1701820894.490485,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "enwikimwuser-sessionId",
-      "value": "7de6e1ab4b73e9aaf7dd",
+      "value": "94fe4efc99f79580834e",
       "domain": "en.wikipedia.org",
       "path": "/",
       "expires": -1,
@@ -61,21 +61,11 @@
       "sameSite": "Lax"
     },
     {
-      "name": "CentralAuthAnonTopLevel",
-      "value": "1",
-      "domain": "en.wikipedia.org",
-      "path": "/",
-      "expires": 1701901507.172913,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "WMF-Last-Access",
       "value": "05-Dec-2023",
       "domain": "login.wikimedia.org",
       "path": "/",
-      "expires": 1704542400.676271,
+      "expires": 1704542400.744339,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -95,14 +85,14 @@
       "value": "0.001",
       "domain": "login.wikimedia.org",
       "path": "/",
-      "expires": 1701818709.469462,
+      "expires": 1701819447.637143,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "ss0-enwikiSession",
-      "value": "8v6cm5m8q0dvhcelvvcbh5k9sqiuqs1n",
+      "value": "ae9gp9d1u5vhn6q88ihqji2ut95poico",
       "domain": "en.wikipedia.org",
       "path": "/",
       "expires": -1,
@@ -112,7 +102,7 @@
     },
     {
       "name": "enwikiSession",
-      "value": "8v6cm5m8q0dvhcelvvcbh5k9sqiuqs1n",
+      "value": "ae9gp9d1u5vhn6q88ihqji2ut95poico",
       "domain": "en.wikipedia.org",
       "path": "/",
       "expires": -1,
@@ -125,7 +115,7 @@
       "value": "47008612",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1704407109.762597,
+      "expires": 1704407848.006295,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -135,7 +125,7 @@
       "value": "47008612",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1704407109.762653,
+      "expires": 1704407848.006363,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -145,7 +135,7 @@
       "value": "NinjaGexly",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1704407109.762698,
+      "expires": 1704407848.006431,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -155,7 +145,7 @@
       "value": "NinjaGexly",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1704407109.762749,
+      "expires": 1704407848.0065,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -165,7 +155,7 @@
       "value": "NinjaGexly",
       "domain": ".wikipedia.org",
       "path": "/",
-      "expires": 1704407109.762794,
+      "expires": 1704407848.006559,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -175,27 +165,27 @@
       "value": "NinjaGexly",
       "domain": ".wikipedia.org",
       "path": "/",
-      "expires": 1704407109.762846,
+      "expires": 1704407848.006627,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "loginnotify_prevlogins",
-      "value": "2023-1u8k1e6-1x42vg2j9s0nwd6uk623ofybp4160ta",
+      "value": "2023-1stmy8o-ak0hjctyn6bbwni2fu6wmyha214p9rz",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1717367109.212427,
+      "expires": 1717367847.389944,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "cpPosIndex",
-      "value": "6%401701815109%2377dc5a37fc78c3ac4015a7c31b8f68b0",
+      "value": "1%401701815847%231b57038dba26534aa6022bf1dac4337b",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1701815119.212455,
+      "expires": 1701815857.389988,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -205,14 +195,14 @@
       "value": "master",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1701815119.212481,
+      "expires": 1701815857.390035,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "ss0-loginwikiSession",
-      "value": "95avdqnvt93hhavpgqpvse1dvaju7mus",
+      "value": "fje1nvuakvjs2fd2l39u65kd6ofue13n",
       "domain": "login.wikimedia.org",
       "path": "/",
       "expires": -1,
@@ -222,7 +212,7 @@
     },
     {
       "name": "loginwikiSession",
-      "value": "95avdqnvt93hhavpgqpvse1dvaju7mus",
+      "value": "fje1nvuakvjs2fd2l39u65kd6ofue13n",
       "domain": "login.wikimedia.org",
       "path": "/",
       "expires": -1,
@@ -235,7 +225,7 @@
       "value": "85462458",
       "domain": "login.wikimedia.org",
       "path": "/",
-      "expires": 1704407109.469369,
+      "expires": 1704407847.636784,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -245,7 +235,7 @@
       "value": "85462458",
       "domain": "login.wikimedia.org",
       "path": "/",
-      "expires": 1704407109.469382,
+      "expires": 1704407847.636845,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -255,7 +245,7 @@
       "value": "NinjaGexly",
       "domain": "login.wikimedia.org",
       "path": "/",
-      "expires": 1704407109.469394,
+      "expires": 1704407847.63689,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -265,7 +255,7 @@
       "value": "NinjaGexly",
       "domain": "login.wikimedia.org",
       "path": "/",
-      "expires": 1704407109.469404,
+      "expires": 1704407847.636934,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -275,7 +265,7 @@
       "value": "NinjaGexly",
       "domain": "login.wikimedia.org",
       "path": "/",
-      "expires": 1704407109.469417,
+      "expires": 1704407847.636971,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -285,14 +275,14 @@
       "value": "NinjaGexly",
       "domain": "login.wikimedia.org",
       "path": "/",
-      "expires": 1704407109.469428,
+      "expires": 1704407847.637009,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "ss0-centralauth_Session",
-      "value": "07581ad2c148543d89ff9dfcd40ace50",
+      "value": "ee0709d121d2ab28810435172cfeccdd",
       "domain": "login.wikimedia.org",
       "path": "/",
       "expires": -1,
@@ -302,7 +292,7 @@
     },
     {
       "name": "centralauth_Session",
-      "value": "07581ad2c148543d89ff9dfcd40ace50",
+      "value": "ee0709d121d2ab28810435172cfeccdd",
       "domain": "login.wikimedia.org",
       "path": "/",
       "expires": -1,
@@ -312,7 +302,7 @@
     },
     {
       "name": "ss0-centralauth_Session",
-      "value": "07581ad2c148543d89ff9dfcd40ace50",
+      "value": "ee0709d121d2ab28810435172cfeccdd",
       "domain": ".wikipedia.org",
       "path": "/",
       "expires": -1,
@@ -322,7 +312,7 @@
     },
     {
       "name": "centralauth_Session",
-      "value": "07581ad2c148543d89ff9dfcd40ace50",
+      "value": "ee0709d121d2ab28810435172cfeccdd",
       "domain": ".wikipedia.org",
       "path": "/",
       "expires": -1,
@@ -336,24 +326,32 @@
       "origin": "https://en.wikipedia.org",
       "localStorage": [
         {
+          "name": "uls-previous-language-autonym",
+          "value": "English"
+        },
+        {
+          "name": "CentralNoticeKV|global|impression_diet_WM2024sc",
+          "value": "{\"expiry\":1733351849,\"val\":{\"seenCount\":1,\"skippedThisCycle\":0,\"nextCycleStart\":1702420648997,\"seenThisCycle\":1}}"
+        },
+        {
+          "name": "uls-previous-language-code",
+          "value": "en"
+        },
+        {
           "name": "wmE-sessionTickLastTickTime",
-          "value": "1701815106639"
+          "value": "1701815845100"
         },
         {
           "name": "wmE-sessionTickTickCount",
           "value": "1"
         },
         {
-          "name": "CentralAuthAnon",
-          "value": "1701901506770"
-        },
-        {
           "name": "CentralNoticeKV|global|impression_diet_WSC2023_cookie",
-          "value": "{\"expiry\":1733351107,\"val\":{\"seenCount\":1,\"skippedThisCycle\":0,\"nextCycleStart\":1701987906624,\"seenThisCycle\":1}}"
+          "value": "{\"expiry\":1733351845,\"val\":{\"seenCount\":1,\"skippedThisCycle\":0,\"nextCycleStart\":1701988645089,\"seenThisCycle\":1}}"
         },
         {
           "name": "CentralNoticeKV|global|buckets",
-          "value": "{\"expiry\":1706653507,\"val\":\"Wiki Science Competition 2023 Ukraine!300006400!6645540!1\"}"
+          "value": "{\"expiry\":1706654249,\"val\":\"Wiki Science Competition 2023 Ukraine!300006400!6645540!1*Wikimania scholarships application 2024!300235000!5340600!0\"}"
         }
       ]
     }

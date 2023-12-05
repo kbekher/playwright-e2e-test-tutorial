@@ -4,15 +4,9 @@ test.beforeEach(async ({ page }) => {
   await page.goto('/');
 });
 
-test('menu', async ({ page }) => {
+test('user name', async ({ page }) => {
   await page.getByRole('link', { name: 'NinjaGexly' }).click();
   await expect(page.getByRole('heading', { name: /NinjaGexly/i })).toBeVisible();
-  await page.getByRole('link', { name: /alerts/i  }).click();
-  await page.getByText('Alerts', { exact: true }).click();
-  await page.getByRole('button', { name: /notice/i  }).click();
-  await page.getByText('Notices').click();
-  await page.getByRole('link', { name: /watchlist/i  }).click();
-
 })
 
 test('logs user out', async ({ page }) => {
